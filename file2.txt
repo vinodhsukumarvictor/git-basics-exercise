@@ -1,2 +1,2 @@
 This is the second file in the repo. There are several spelling mistakes to fix.
-##changed as part of feature branch
+changed as part of feature branch
